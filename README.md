@@ -6,7 +6,7 @@
 2. [Objective](#Objective)
 3. [Dataset](#Dataset)
 4. [Preprocessing](#Preprocessing)
-5. [ML Pipeline](#ML Pipeline)
+5. [ML_Pipeline](#ML Pipeline)
 6. [Installation](#Installation)
 
 
