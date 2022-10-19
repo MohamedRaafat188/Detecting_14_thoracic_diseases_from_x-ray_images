@@ -1,0 +1,23 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-10-17T19:14:42.469387",
+    "startedAt": "2022-10-17T19:14:41.207237",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060 Ti",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/MohamedRaafat188/Detecting_14_thoracic_diseases_from_x-ray_images.git",
+        "commit": "ae5d0ca61c1a170168d80197e265ee816b5d36e8"
+    },
+    "email": "mohamedraafat188@gmail.com",
+    "root": "D:/DL projects/Detecting_14_thoracic_diseases_from_x-ray_images",
+    "host": "DESKTOP-1FE92B3",
+    "username": "user",
+    "executable": "c:\\Users\\user\\anaconda3\\python.exe"
+}

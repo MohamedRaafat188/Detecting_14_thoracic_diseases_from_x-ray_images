@@ -1,0 +1,27 @@
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
+c:\Users\user\anaconda3\lib\site-packages\pytorch_lightning\loggers\wandb.py:345: UserWarning: There is a wandb run already in progress and newly created instances of `WandbLogger` will reuse this run. If this is not desired, call `wandb.finish()` before instantiating `WandbLogger`.
+  rank_zero_warn(
+Using 16bit native Automatic Mixed Precision (AMP)
+GPU available: True, used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+  | Name              | Type                  | Params
+------------------------------------------------------------
+0 | model             | EfficientNet          | 17.8 M
+1 | criterion         | BCEWithLogitsLoss     | 0
+2 | accuracy          | MultilabelAccuracy    | 0
+3 | recall            | MultilabelRecall      | 0
+4 | precision_        | MultilabelPrecision   | 0
+5 | specificity       | MultilabelSpecificity | 0
+6 | metric_collection | MetricCollection      | 0
+------------------------------------------------------------
+17.8 M    Trainable params
+0         Non-trainable params
+17.8 M    Total params
+35.558    Total estimated model params size (MB)
+c:\Users\user\anaconda3\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:240: PossibleUserWarning: The dataloader, val_dataloader 0, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 6 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(
+c:\Users\user\anaconda3\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:240: PossibleUserWarning: The dataloader, train_dataloader, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 6 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(

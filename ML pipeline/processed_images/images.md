@@ -1,0 +1,1 @@
+In this folder we will save the training and validation images after preprocessing
