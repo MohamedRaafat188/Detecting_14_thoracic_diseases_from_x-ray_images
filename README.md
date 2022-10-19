@@ -8,6 +8,7 @@
 4. [Preprocessing](#Preprocessing)
 5. [ML_Pipeline](#ML_Pipeline)
 6. [Installation](#Installation)
+7. [How to run](#How-to-run)
 
 
 ### Description
@@ -70,3 +71,10 @@ You must have the latest versions(October 2022) of these libraries:
 * wandb
 
 And of course you should have python 3.8.5 and jupyter
+
+
+### How to run
+Follow these steps to run the project:
+1. run the eda.ipynb in the EDA folder
+2. run preprocessing.ipynb in the (ML pipeline) folder
+3. run ml-pipeline in the (ML pipeline) folder
