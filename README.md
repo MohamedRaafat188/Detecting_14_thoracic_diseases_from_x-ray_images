@@ -6,7 +6,7 @@
 2. [Objective](#Objective)
 3. [Dataset](#Dataset)
 4. [Preprocessing](#Preprocessing)
-5. [ML_Pipeline](#ML Pipeline)
+5. [ML_Pipeline](#ML_Pipeline)
 6. [Installation](#Installation)
 
 
@@ -43,7 +43,7 @@ The images are of size 1024*1024 and in .png format so I applied the following s
 * save the images in .npy format using numpy library
 
 
-### ML Pipeline
+### ML_Pipeline
 * create a custom dataset class
 * apply some data augmentation techniques (random rotation, random translation, random scaling and random cropping)
 * use dataloaders
